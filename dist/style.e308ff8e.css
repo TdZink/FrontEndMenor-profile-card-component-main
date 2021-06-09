@@ -46,8 +46,8 @@ body {
 
 .grid-row-1 {
     background: url(/bg-pattern-card.ac0e14c5.svg);
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
 }
 
 .grid-row-2 {
