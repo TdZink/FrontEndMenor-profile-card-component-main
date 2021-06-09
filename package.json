@@ -1,0 +1,24 @@
+{
+  "name": "frontendmenor-profile-card-component-main",
+  "version": "1.0.0",
+  "description": "Frontend Mentor challenge",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html --port 8080",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TdZink/FrontEndMentor-profile-card-component-main.git"
+  },
+  "author": "Zink, Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TdZink/FrontEndMentor-profile-card-component-main/issues"
+  },
+  "homepage": "https://github.com/TdZink/FrontEndMentor-profile-card-component-main#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "postcss-preset-env": "^6.7.0"
+  }
+}
