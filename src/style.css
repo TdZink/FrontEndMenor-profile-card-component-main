@@ -52,9 +52,6 @@ body {
     border-bottom: solid 1px #e8e9ec;
 }
 
-.grid-row-3 {
-}
-
 .profilePicture-container {
     position: absolute;
     top: 50%;
@@ -75,4 +72,40 @@ body {
     height: 106px;
     width: 106px;
     clip-path: circle(50% at 50% 50%);
+}
+
+.nameAge {
+    transform: translate(0, 375%);
+    font-weight: 700;
+}
+
+.age {
+    margin-left: 5px;
+    font-weight: 400;
+    color: #6b7082;
+}
+
+.location {
+    transform: translate(0, 550%);
+    color: #6b7082;
+    font-size: 14px;
+}
+
+.stats-grid-row {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    transform: translate(0, -50%);
+    margin: 0px 50px;
+}
+
+.followers {
+    background: blue;
+}
+
+.likes {
+    background: red;
+}
+
+.photos {
+    background: green;
 }
