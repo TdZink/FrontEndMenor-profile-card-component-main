@@ -18,6 +18,12 @@ body {
     font-size: 18px;
 }
 
+.background-top-image {
+    position: absolute;
+    bottom: 40%;
+    left: -4%;
+}
+
 .attribution {
     visibility: hidden;
     font-size: 11px;
