@@ -16,12 +16,20 @@ body {
     background: var(--color-primiary-baackground);
     font-family: "Kumbh Sans", sans-serif;
     font-size: 18px;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 .background-top-image {
     position: absolute;
     bottom: 40%;
     left: -4%;
+}
+
+.background-bottom-image {
+    position: absolute;
+    top: 48%;
+    right: 0%;
 }
 
 .attribution {
