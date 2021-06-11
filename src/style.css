@@ -102,6 +102,7 @@ body {
     height: 106px;
     width: 106px;
     clip-path: circle(50% at 50% 50%);
+    z-index: 50;
 }
 
 .nameAge {
